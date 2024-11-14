@@ -1,0 +1,2 @@
+Our code is simple it uses basic html elements (li,ol,title,body,p,h1-h6,center)
+the code can be easily be manipulated into something else by interacting with the elements above you can chang the wording or entierly change the whole program into anything like types of food,favorite Games,Frends list and many more othe ideas you can think of.
